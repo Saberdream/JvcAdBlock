@@ -1,6 +1,6 @@
 ! Title: JvcAdBlock
 ! Author: Jiren
-! Version: 1.0
+! Version: 1.1
 ! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: http://avasith.free.fr/

@@ -6,7 +6,7 @@
 ! Homepage: http://avasith.free.fr/
 
 jeuxvideo.com## a[href*="://www.wootbox.fr/"]
-jeuxvideo.com##.video-footer-container
+jeuxvideo.com##.layout__videoFooter
 jeuxvideo.com##.highlight
 jeuxvideo.com##.external-links
 jeuxvideo.com##.colorThemeG

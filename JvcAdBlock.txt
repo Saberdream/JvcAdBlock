@@ -1,12 +1,12 @@
 ! Title: JvcAdBlock
 ! Author: Jiren
-! Version: 1.1
+! Version: 1.0
 ! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: http://avasith.free.fr/
 
 jeuxvideo.com## a[href*="://www.wootbox.fr/"]
-jeuxvideo.com##.layout__videoFooter
+jeuxvideo.com##.layout__row.layout__videoFooter
 jeuxvideo.com##.highlight
 jeuxvideo.com##.external-links
 jeuxvideo.com##.colorThemeG

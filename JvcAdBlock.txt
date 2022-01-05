@@ -1,9 +1,9 @@
 ! Title: JvcAdBlock
-! Author: Jiren
-! Version: 1.0
+! Author: Jyren
+! Version: 1.1
 ! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
-! Homepage: http://avasith.free.fr/
+! Homepage: https://github.com/Saberdream/JvcAdBlock
 
 jeuxvideo.com## a[href*="://www.wootbox.fr/"]
 jeuxvideo.com##.layout__row.layout__videoFooter
@@ -17,14 +17,3 @@ jeuxvideo.com##.store
 jeuxvideo.com##.sideWootbox
 jeuxvideo.com##.forumAnchorWrapper
 cmp.webedia.mgr.consensu.org/cmp.bundle.js
-! 2020-12-23 https://best.aliexpress.com
-aliexpress.com##.top-banner-container
-! 2021-04-09 https://www.qwant.com
-qwant.com##.snippet
-www.qwant.com##div[class^="HomeFlag-module"]
-www.qwant.com##.*CommercialFlagContainer*
-www.qwant.com##div[class^="HomeFlag-module__CommercialFlagContainer"]
-www.qwant.com##div[class^="CommercialFlagContainer"]
-@@||www.youtube.com/get_video_info?*=detailpage$xhr,domain=youtube.com
-@@||www.youtube.com/get_video_info?*=embedded$xhr,domain=youtube.com
-!@@ae01.alicdn.com/kf/*

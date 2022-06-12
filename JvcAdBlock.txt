@@ -1,19 +1,20 @@
 ! Title: JvcAdBlock
 ! Author: Jyren
-! Version: 1.1
+! Version: 1.2
 ! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: https://github.com/Saberdream/JvcAdBlock
 
-jeuxvideo.com## a[href*="://www.wootbox.fr/"]
 jeuxvideo.com##.layout__row.layout__videoFooter
-jeuxvideo.com##.highlight
-jeuxvideo.com##.external-links
-jeuxvideo.com##.colorThemeG
-jeuxvideo.com##.sponsoTab
-jeuxvideo.com## a[href^="https://www.wearefans.com/"]
-jeuxvideo.com##.sideStore
-jeuxvideo.com##.store
-jeuxvideo.com##.sideWootbox
-jeuxvideo.com##.forumAnchorWrapper
-cmp.webedia.mgr.consensu.org/cmp.bundle.js
+jeuxvideo.com##.footer div div:first-child
+!jeuxvideo.com## a[href*="://www.wootbox.fr/"]
+!jeuxvideo.com##.highlight
+!jeuxvideo.com##.external-links
+!jeuxvideo.com##.colorThemeG
+!jeuxvideo.com##.sponsoTab
+!jeuxvideo.com## a[href^="https://www.wearefans.com/"]
+!jeuxvideo.com##.sideStore
+!jeuxvideo.com##.store
+!jeuxvideo.com##.sideWootbox
+!jeuxvideo.com##.forumAnchorWrapper
+!cmp.webedia.mgr.consensu.org/cmp.bundle.js

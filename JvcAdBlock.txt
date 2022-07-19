@@ -11,3 +11,4 @@ jeuxvideo.com##.sideGameAffiliate
 !jeuxvideo.com## a[href*="://www.wootbox.fr/"]
 !jeuxvideo.com## a[href^="https://www.wearefans.com/"]
 !cmp.webedia.mgr.consensu.org/cmp.bundle.js
+jeuxvideo.com##.sponsoTab
